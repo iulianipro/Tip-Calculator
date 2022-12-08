@@ -1,4 +1,4 @@
-# kiss_reader
+# Tip Calculator
 
 Powered by iuLiani.com
 
